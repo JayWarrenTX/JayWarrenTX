@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayWarrenTX
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning JavaScript, HTML, and CSS. I'm hoping to learn Solidity soon after.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript. I'm hoping to learn Solidity soon after.
 - 💞️ I’m looking to collaborate on anything. I want to learn this skillset the best I can.
 - 📫 Jay.residenthero@gmail.com
 
